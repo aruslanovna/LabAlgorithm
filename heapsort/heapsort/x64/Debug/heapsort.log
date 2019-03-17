@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+c:\users\user\source\repos\heapsort\heapsort\stdafx.cpp(42): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\user\source\repos\heapsort\heapsort\stdafx.cpp(48): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  heapsort.cpp
+  LINK : эх эрщфхэ шыш эх т√яюыэхэр ёсюЁър C:\Users\User\source\repos\heapsort\x64\Debug\heapsort.exe яЁш яюёыхфэхщ шэъЁхьхэЄэющ ъюьяюэютъх; т√яюыэ хЄё  яюыэр  ъюьяюэютър
+stdafx.obj : error LNK2005: main єцх юяЁхфхыхэ т heapsort.obj
+C:\Users\User\source\repos\heapsort\x64\Debug\heapsort.exe : fatal error LNK1169: юсэрЁєцхэ ьэюуюъЁрЄэю юяЁхфхыхээ√щ ёшьтюы - юфшэ шыш сюыхх

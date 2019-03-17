@@ -1,0 +1,7 @@
+﻿  ConsoleApplication10.cpp
+d:\учеба\1 курс\атсд\лаба 333\consoleapplication10\consoleapplication10.cpp(11): error C2373: 'MultiByteToWideChar': redefinition; different type modifiers
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\stringapiset.h(138): note: see declaration of 'MultiByteToWideChar'
+d:\учеба\1 курс\атсд\лаба 333\consoleapplication10\consoleapplication10.cpp(23): error C2065: 'MultiByteToWideChar': undeclared identifier
+d:\учеба\1 курс\атсд\лаба 333\consoleapplication10\consoleapplication10.cpp(23): error C2440: 'initializing': cannot convert from 'int (__stdcall *)(UINT,DWORD,LPCCH,int,LPWSTR,int)' to 'int'
+  d:\учеба\1 курс\атсд\лаба 333\consoleapplication10\consoleapplication10.cpp(23): note: There is no context in which this conversion is possible
+d:\учеба\1 курс\атсд\лаба 333\consoleapplication10\consoleapplication10.cpp(25): error C2065: 'MultiByteToWideChar': undeclared identifier

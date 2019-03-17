@@ -1,0 +1,24 @@
+﻿  MinHeap.cpp
+c:\users\user\source\repos\minheap\minheap\minheap.cpp(140): error C2084: функция "MinHeap::MinHeap(int *,int)" уже имеет текст реализации
+  c:\users\user\source\repos\minheap\minheap\minheap.cpp(37): note: см. предыдущее определение "{ctor}"
+c:\users\user\source\repos\minheap\minheap\minheap.cpp(150): error C2084: функция "MinHeap::MinHeap(const std::vector<int,std::allocator<_Ty>> &)" уже имеет текст реализации
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\user\source\repos\minheap\minheap\minheap.cpp(47): note: см. предыдущее определение "{ctor}"
+c:\users\user\source\repos\minheap\minheap\minheap.cpp(156): error C2084: функция "MinHeap::MinHeap(void)" уже имеет текст реализации
+  c:\users\user\source\repos\minheap\minheap\minheap.cpp(52): note: см. предыдущее определение "{ctor}"
+c:\users\user\source\repos\minheap\minheap\minheap.cpp(160): error C2084: функция "void MinHeap::Heapify(void)" уже имеет текст реализации
+  c:\users\user\source\repos\minheap\minheap\minheap.cpp(56): note: см. предыдущее определение "Heapify"
+c:\users\user\source\repos\minheap\minheap\minheap.cpp(169): error C2084: функция "void MinHeap::BubbleDown(int)" уже имеет текст реализации
+  c:\users\user\source\repos\minheap\minheap\minheap.cpp(65): note: см. предыдущее определение "BubbleDown"
+c:\users\user\source\repos\minheap\minheap\minheap.cpp(200): error C2084: функция "void MinHeap::BubbleUp(int)" уже имеет текст реализации
+  c:\users\user\source\repos\minheap\minheap\minheap.cpp(96): note: см. предыдущее определение "BubbleUp"
+c:\users\user\source\repos\minheap\minheap\minheap.cpp(216): error C2084: функция "void MinHeap::Insert(int)" уже имеет текст реализации
+  c:\users\user\source\repos\minheap\minheap\minheap.cpp(112): note: см. предыдущее определение "Insert"
+c:\users\user\source\repos\minheap\minheap\minheap.cpp(224): error C2084: функция "int MinHeap::GetMin(void)" уже имеет текст реализации
+  c:\users\user\source\repos\minheap\minheap\minheap.cpp(120): note: см. предыдущее определение "GetMin"
+c:\users\user\source\repos\minheap\minheap\minheap.cpp(229): error C2084: функция "void MinHeap::DeleteMin(void)" уже имеет текст реализации
+  c:\users\user\source\repos\minheap\minheap\minheap.cpp(125): note: см. предыдущее определение "DeleteMin"
+c:\users\user\source\repos\minheap\minheap\minheap.cpp(246): error C2264: MinHeap::MinHeap: ошибка в определении или объявлении функции; функция не вызвана

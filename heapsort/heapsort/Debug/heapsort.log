@@ -1,0 +1,4 @@
+﻿  heapsort.cpp
+c:\users\user\source\repos\heapsort\heapsort\heapsort.cpp(41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\user\source\repos\heapsort\heapsort\heapsort.cpp(47): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  heapsort.vcxproj -> C:\Users\User\source\repos\heapsort\Debug\heapsort.exe
